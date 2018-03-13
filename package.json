@@ -1,0 +1,24 @@
+{
+  "name": "lodash_in_examples",
+  "version": "1.0.0",
+  "description": "<a href='https://lodash.com/docs/'>Lodash library</a> examples grouped by type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelCreator/lodash_in_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelCreator/lodash_in_examples/issues"
+  },
+  "homepage": "https://github.com/PavelCreator/lodash_in_examples#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "lodash": "^4.17.5"
+  },
+  "dependencies": {}
+}
