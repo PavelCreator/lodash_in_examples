@@ -1,2 +1,2 @@
-# lodash_in_examples
-Lodash in examples
+# Losash in examples
+<a href='https://lodash.com/docs/'>Lodash library</a> examples grouped by type
